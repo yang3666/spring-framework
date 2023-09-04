@@ -1,4 +1,4 @@
-package learning.spring.helloword;
+package learning.spring.helloworld;
 
 public class SpringHello implements Hello{
     @Override

@@ -1,4 +1,4 @@
-package learning.spring.helloword;
+package learning.spring.helloworld;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

@@ -1,8 +1,8 @@
-package learing.spring.config;
+package learning.spring.helloworld.config;
 
 
-import learing.spring.binarytea.BinaryTeaApplication;
-import learing.spring.binarytea.BinaryTeaProperties;
+import learning.spring.helloworld.binarytea.BinaryTeaApplication;
+import learning.spring.helloworld.binarytea.BinaryTeaProperties;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

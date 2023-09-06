@@ -1,4 +1,4 @@
-package learing.spring.binarytea;
+package learning.spring.helloworld.binarytea;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

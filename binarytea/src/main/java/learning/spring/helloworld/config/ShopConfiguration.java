@@ -1,6 +1,6 @@
-package learing.spring.config;
+package learning.spring.helloworld.config;
 
-import learing.spring.binarytea.BinaryTeaProperties;
+import learning.spring.helloworld.binarytea.BinaryTeaProperties;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
